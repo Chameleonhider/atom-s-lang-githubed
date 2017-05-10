@@ -1,0 +1,19 @@
+{
+  "name": "atom-s-lang",
+  "main": "./lib/atom-s-lang",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "__activationCommands": {
+    "atom-workspace": "atom-s-lang:toggle",
+	"atom-workspace": "editor:OnDidSave"
+  },
+  "repository": "https://github.com/atom/atom-s-lang",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
