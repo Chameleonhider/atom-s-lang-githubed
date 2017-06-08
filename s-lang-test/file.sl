@@ -1,4 +1,10 @@
 require("./file2.sl");
+require("./file2.sl");
+require("./file2.sl");
+require("./file2.sl");
+require("./file2.sl");
+require("./file2.sl");
+require("./file2.sl");
 
 typedef struct{
 	a, b, c,
