@@ -16,6 +16,8 @@ define a(this, param1, param2){
 	%something something complete
 }
 
-define b(param0, param1){
+define functionWithAVeryLongName(param0, param1){
 	%comment is just that, a comment.
 }
+
+function

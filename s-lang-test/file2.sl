@@ -27,3 +27,5 @@ define f(){ %comment
 
 variable randoms = Random_struc[99];
 variable random = @Random_struc;
+
+define functionwithEvenLongerName(paramters of function ok){}
