@@ -19,5 +19,3 @@ define a(this, param1, param2){
 define functionWithAVeryLongName(param0, param1){
 	%comment is just that, a comment.
 }
-
-function
