@@ -1,4 +1,6 @@
-%require("./none.sl");
-	  	%require("../../none.sl"); %comment comment comment
-%comment comment comment
-%require("../file.sl"); %comment comment comment
+variable a;
+variable b, c;
+variable d;
+variable e="e", f="f";
+variable g=[array, array, array];
+variable h=[array1, array, array], i=[array2, array, array];
