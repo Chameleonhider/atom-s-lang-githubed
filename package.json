@@ -1,18 +1,16 @@
 {
 	"name": "atom-s-lang",
 	"main": "./lib/atom-s-lang",
-	"version": "0.0.0",
+	"version": "0.2.1",
 	"description": "Autocomplete plugin for S-Lang",
 	"keywords": [
 	],
 	"__activationCommands": {
-		"atom-workspace": "atom-s-lang:toggle",
-		"atom-workspace": "editor:OnDidSave"
 	},
 	"repository": "https://github.com/Chameleonhider/atom-s-lang-githubed",
-	"license": "MIT",
+	"license": "MIT-ish",
 	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
+		"atom": ">=1.0.0 <3.0.0"
 	},
 	"providedServices": {
 		"autocomplete.provider": {
